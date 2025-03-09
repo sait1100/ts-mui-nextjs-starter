@@ -30,7 +30,7 @@ sections:
         directions. Glowing pathways between the shelves create .webp
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: ''
     subtitle: ''
     items:
       - type: Card
