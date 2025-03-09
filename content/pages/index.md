@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Start Building
+        label: ''
         url: ''
         size: large
         variant: contained
