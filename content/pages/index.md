@@ -9,13 +9,7 @@ sections:
       кто любит книги! Здесь вас ждёт увлекательное путешествие по страницам
       классики и бестселлеров.
     text: ''
-    actions:
-      - type: Button
-        label: ''
-        url: ''
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: >-
