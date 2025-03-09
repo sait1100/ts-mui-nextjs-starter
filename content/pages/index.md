@@ -19,7 +19,7 @@ sections:
         directions. Glowing pathways between the shelves create .webp
   - type: HeroSection
     title: '**Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии**'
-    subtitle: 'Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии'
+    subtitle: ''
     text: >+
       <div style="text-align: center">### **Исследуйте каталог книг,
       вдохновляйтесь подборками и читайте рецензии
