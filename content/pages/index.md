@@ -7,7 +7,7 @@ sections:
     subtitle: >-
       Добро пожаловать в Книжный Лабиринт – уникальное пространство для всех,
       кто любит книги! Здесь вас ждёт увлекательное путешествие по страницам
-      классики и новинок, бестселлеров и редких изданий.
+      классики и бестселлеров.
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
