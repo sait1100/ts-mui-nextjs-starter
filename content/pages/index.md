@@ -20,7 +20,9 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: 'Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии'
-    text: ''
+    text: >
+      <div style="text-align: center">### \*\*Исследуйте каталог книг,
+      вдохновляйтесь подборками и читайте рецензии\*\*</div>
     actions: []
     image:
       type: Image
