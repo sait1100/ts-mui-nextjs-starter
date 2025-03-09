@@ -13,9 +13,9 @@ sections:
     image:
       type: Image
       url: >-
-        /images/DALL·E 2025-03-09 22.50.09 - A fantasy-themed labyrinth made
-        entirely of towering bookshelves, stretching endlessly in all
-        directions. Glowing pathways between the shelves create .webp
+        /images/DALL·E 2025-03-09 23.11.54 - A photorealistic image of a cozy
+        reading nook with a stack of books, a cup of tea, and a warm blanket.
+        The setting is by a large window with soft natu.webp
       altText: Hero section image
   - type: CardsSection
     title: ''
