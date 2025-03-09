@@ -13,6 +13,10 @@ sections:
     image:
       type: Image
       altText: Hero section image
+      url: >-
+        /images/DALL·E 2025-03-09 22.50.09 - A fantasy-themed labyrinth made
+        entirely of towering bookshelves, stretching endlessly in all
+        directions. Glowing pathways between the shelves create .webp
   - type: CardsSection
     title: ''
     subtitle: ''
