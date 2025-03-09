@@ -7,7 +7,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/",
+                "url": "",
                 "underline": "hover"
             },
             {
