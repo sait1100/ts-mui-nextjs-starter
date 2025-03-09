@@ -17,6 +17,16 @@ sections:
         /images/DALL·E 2025-03-09 22.50.09 - A fantasy-themed labyrinth made
         entirely of towering bookshelves, stretching endlessly in all
         directions. Glowing pathways between the shelves create .webp
+  - type: HeroSection
+    title: 'Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии'
+    subtitle: ''
+    text: |+
+      <div style="text-align: center"></div>
+
+    actions: []
+    image:
+      type: Image
+      altText: Hero section image
   - type: CardsSection
     title: ''
     subtitle: ''
