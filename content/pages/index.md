@@ -56,7 +56,7 @@ sections:
             variant: contained
             color: inherit
       - type: Card
-        title: Цитаты и Отрывки
+        title: Цитаты и Отрывк
         image:
           type: Image
           url: >-
