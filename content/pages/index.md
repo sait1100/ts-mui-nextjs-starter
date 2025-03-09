@@ -56,7 +56,7 @@ sections:
             variant: contained
             color: inherit
       - type: Card
-        title: Third Card Title
+        title: Цитаты и Отрывки
         image:
           type: Image
           url: >-
