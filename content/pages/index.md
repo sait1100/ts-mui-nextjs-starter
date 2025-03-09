@@ -48,7 +48,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Рецензии
         image:
           type: Image
           url: >-
