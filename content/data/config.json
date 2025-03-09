@@ -20,13 +20,6 @@
     },
     "footer": {
         "copyrightText": "",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Глав",
-                "underline": "hover",
-                "url": "/"
-            }
-        ]
+        "navLinks": []
     }
 }
