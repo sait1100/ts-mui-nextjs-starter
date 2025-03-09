@@ -24,7 +24,10 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        /images/DALL·E 2025-03-09 22.48.13 - A stunning fantasy-themed reading
+        nook in a grand library with towering bookshelves filled with ancient,
+        glowing books. A magical atmosphere with floa.webp
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
