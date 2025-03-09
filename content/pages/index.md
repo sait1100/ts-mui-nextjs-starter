@@ -37,7 +37,10 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: >-
+            /images/DALL·E 2025-03-09 23.00.57 - A fantasy-themed scene
+            representing book reviews and critiques. A grand, ancient desk sits
+            in a mystical library, covered with glowing open books, flo.webp
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
