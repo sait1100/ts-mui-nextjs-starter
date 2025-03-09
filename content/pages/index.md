@@ -18,7 +18,7 @@ sections:
         entirely of towering bookshelves, stretching endlessly in all
         directions. Glowing pathways between the shelves create .webp
   - type: HeroSection
-    title: '**Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии**'
+    title: 'Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии'
     subtitle: ''
     text: >+
       <div style="text-align: center">### **Исследуйте каталог книг,
