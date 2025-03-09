@@ -61,7 +61,7 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
-            size: medium
+            size: large
             variant: contained
             color: inherit
       - type: Card
