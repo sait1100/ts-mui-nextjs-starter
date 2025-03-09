@@ -34,16 +34,15 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Список Книг
         image:
           type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          url: >-
+            /images/DALL·E 2025-03-09 23.00.57 - A fantasy-themed scene
+            representing book reviews and critiques. A grand, ancient desk sits
+            in a mystical library, covered with glowing open books, flo.webp
+          altText: Список Книг
+        text: ''
         actions:
           - type: Button
             label: Read the Docs
