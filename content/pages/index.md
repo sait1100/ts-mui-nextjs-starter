@@ -14,12 +14,6 @@ sections:
         label: ''
         url: ''
         size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: ''
-        url: ''
-        size: large
         variant: outlined
         color: primary
     image:
