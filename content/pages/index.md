@@ -18,7 +18,7 @@ sections:
         entirely of towering bookshelves, stretching endlessly in all
         directions. Glowing pathways between the shelves create .webp
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: ''
     subtitle: ''
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
