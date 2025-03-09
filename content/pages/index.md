@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Книжный Лабиринт
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       This is the HeroSection component. You can visually edit this component &
@@ -24,7 +24,10 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        /images/DALL·E 2025-03-09 22.50.09 - A fantasy-themed labyrinth made
+        entirely of towering bookshelves, stretching endlessly in all
+        directions. Glowing pathways between the shelves create .webp
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
