@@ -26,9 +26,9 @@ sections:
         image:
           type: Image
           url: >-
-            /images/DALL·E 2025-03-09 23.00.57 - A fantasy-themed scene
-            representing book reviews and critiques. A grand, ancient desk sits
-            in a mystical library, covered with glowing open books, flo.webp
+            /images/DALL·E 2025-03-09 23.26.10 - A minimalist fantasy-themed
+            scene representing a book list. A clean, elegant arrangement of
+            books fanned out in a glowing arc on a wooden surface, the.webp
           altText: Список Книг
         text: ''
         actions:
@@ -43,9 +43,9 @@ sections:
         image:
           type: Image
           url: >-
-            /images/DALL·E 2025-03-09 23.00.57 - A fantasy-themed scene
-            representing book reviews and critiques. A grand, ancient desk sits
-            in a mystical library, covered with glowing open books, flo.webp
+            /images/DALL·E 2025-03-09 23.26.04 - A minimalist fantasy-themed
+            scene representing quotes. An open book at the center with glowing,
+            golden letters gently rising from its pages into the a.webp
           altText: Second item image
         text: ''
         actions:
@@ -60,9 +60,9 @@ sections:
         image:
           type: Image
           url: >-
-            /images/DALL·E 2025-03-09 23.00.54 - A fantasy-themed scene
-            representing book reviews and critiques. At the center, a magical
-            arrangement of books fanned out in a glowing arc, their pages.webp
+            /images/DALL·E 2025-03-09 23.26.13 - A minimalist fantasy-themed
+            scene representing a book list. A clean, elegant arrangement of
+            books fanned out in a glowing arc on a wooden surface, the.webp
           altText: Third item image
         text: ''
         actions:
