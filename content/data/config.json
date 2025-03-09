@@ -23,7 +23,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Главная",
+                "label": "Глав",
                 "underline": "hover",
                 "url": "/"
             }
