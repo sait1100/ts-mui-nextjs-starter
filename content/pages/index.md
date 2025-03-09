@@ -4,7 +4,10 @@ type: Page
 sections:
   - type: HeroSection
     title: Книжный Лабиринт
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: >-
+      Добро пожаловать в Книжный Лабиринт – уникальное пространство для всех,
+      кто любит книги! Здесь вас ждёт увлекательное путешествие по страницам
+      классики и новинок, бестселлеров и редких изданий.
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
