@@ -49,6 +49,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: large
             variant: contained
+            color: inherit
       - type: Card
         title: Рецензии
         image:
