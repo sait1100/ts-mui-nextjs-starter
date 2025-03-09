@@ -63,7 +63,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: large
             variant: text
-            color: secondary
+            color: inherit
       - type: Card
         title: Third Card Title
         image:
