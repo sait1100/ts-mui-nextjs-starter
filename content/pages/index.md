@@ -31,7 +31,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: Список Книг
