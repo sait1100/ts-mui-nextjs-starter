@@ -19,7 +19,7 @@ sections:
         directions. Glowing pathways between the shelves create .webp
   - type: HeroSection
     title: This Is A Big Hero Headline
-    subtitle: The section subtitle
+    subtitle: ''
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
