@@ -20,11 +20,12 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      **Исследуйте каталог книг, вдохновляйтесь подборками и читайте рецензии
+      **
+
+
+
     actions: []
     image:
       type: Image
