@@ -15,12 +15,6 @@
                 "label": "",
                 "url": "",
                 "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Documentatio",
-                "url": "https://docs.netlify.com/overview/",
-                "underline": "hover"
             }
         ]
     },
