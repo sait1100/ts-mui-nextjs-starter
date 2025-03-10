@@ -3,7 +3,7 @@ type: Page
 title: spisokknig
 sections:
   - type: HeroSection
-    title: This is a Big Hero Headline
+    title: ''
     subtitle: ''
     text: ''
     actions: []
