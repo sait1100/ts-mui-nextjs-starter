@@ -43,7 +43,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: Перейти
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: large
             variant: contained
@@ -60,11 +60,17 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: Перейти
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: large
             variant: contained
             color: inherit
+          - type: Button
+            label: Перейти
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: Цитаты и Отрывки
         image:
