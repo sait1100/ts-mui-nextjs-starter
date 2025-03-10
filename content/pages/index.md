@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: Перейти
-            url: nimble-trifle-216a31.netlify.app
+            url: 'https://nimble-trifle-216a31.netlify.app/spisokknig'
             size: large
             variant: contained
             color: inherit
