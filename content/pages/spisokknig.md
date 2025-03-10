@@ -63,7 +63,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: ''
     items:
       - type: Card
