@@ -65,12 +65,6 @@ sections:
             size: large
             variant: contained
             color: inherit
-          - type: Button
-            label: Перейти
-            url: /
-            size: medium
-            variant: text
-            color: primary
       - type: Card
         title: Цитаты и Отрывки
         image:
