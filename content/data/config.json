@@ -17,9 +17,5 @@
                 "underline": "hover"
             }
         ]
-    },
-    "footer": {
-        "copyrightText": "",
-        "navLinks": []
     }
 }
