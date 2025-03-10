@@ -7,10 +7,6 @@ sections:
     subtitle: The section subtitle
     text: ''
     actions: []
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
