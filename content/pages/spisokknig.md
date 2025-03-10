@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Example landing page
+title: spisokknig
 sections:
   - type: HeroSection
     title: This is a Big Hero Headline
