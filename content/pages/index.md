@@ -44,7 +44,7 @@ sections:
         actions:
           - type: Button
             label: Перейти
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: nimble-trifle-216a31.netlify.app
             size: large
             variant: contained
             color: inherit
