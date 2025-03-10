@@ -78,7 +78,7 @@ sections:
         actions:
           - type: Button
             label: ПЕРЕЙТИ
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://nimble-trifle-216a31.netlify.app/citati'
             size: large
             variant: contained
             color: inherit
