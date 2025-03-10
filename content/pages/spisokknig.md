@@ -64,7 +64,7 @@ sections:
             color: primary
   - type: CardsSection
     title: Cards Section Title
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
