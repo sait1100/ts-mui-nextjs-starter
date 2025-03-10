@@ -3,7 +3,7 @@ type: Page
 title: ''
 sections:
   - type: HeroSection
-    title: This is a Big Hero Headline
+    title: ''
     subtitle: The section subtitle
     text: ''
     actions: []
