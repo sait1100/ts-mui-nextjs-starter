@@ -21,4 +21,10 @@ sections:
         size: large
         variant: outlined
         color: primary
+      - type: Button
+        label: Learn more
+        url: /
+        size: medium
+        variant: text
+        color: primary
 ---
