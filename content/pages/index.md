@@ -61,7 +61,7 @@ sections:
         actions:
           - type: Button
             label: Перейти
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://nimble-trifle-216a31.netlify.app/recenzii'
             size: large
             variant: contained
             color: inherit
