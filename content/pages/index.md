@@ -60,7 +60,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: Перейти
             url: 'https://docs.netlify.com/visual-editor/overview/'
             size: large
             variant: contained
