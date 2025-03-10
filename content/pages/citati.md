@@ -6,13 +6,7 @@ sections:
     title: This is a Big Hero Headline
     subtitle: The section subtitle
     text: ''
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/create/getting-started/'
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
