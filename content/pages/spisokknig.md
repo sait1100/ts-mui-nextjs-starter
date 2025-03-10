@@ -4,7 +4,7 @@ title: spisokknig
 sections:
   - type: HeroSection
     title: This is a Big Hero Headline
-    subtitle: The section subtitle
+    subtitle: ''
     text: ''
     actions: []
   - type: CardsSection
