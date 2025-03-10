@@ -3,7 +3,7 @@ type: Page
 title: Example landing page
 sections:
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
