@@ -2,11 +2,6 @@
 type: Page
 title: spisokknig
 sections:
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    text: ''
-    actions: []
   - type: CardsSection
     title: ''
     subtitle: ''
